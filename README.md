@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**TalhaHossainKhan/TalhaHossainKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there! 👋 I'm Talha Hossain Khan
+About Me
+I am an aspiring entrepreneur and a computer engineering major at the University of Maryland. I am passionate about technology and innovation. I'm focused on applying engineering knowledge to solve real-world problems, particularly in AI, IoT, and blockchain.
+Vision & Current Focus
+My goal is to create a tech startup that revolutionizes the fintech industry. I'm exploring blockchain's potential in fintech, especially for developing countries. This interest stems from my work with the Youth Policy Forum in Bangladesh, advocating for pro-blockchain policies.
+I'm developing a concept for a blockchain-based banking platform aimed at:
+Providing microfinance
+Connecting lenders and borrowers
+Implementing digital identity verification
+Enabling cross-border payments with local currency-pegged stablecoins
+Offering investment and savings opportunities
+Let's Connect!
+I'm eager to connect with tech enthusiasts, mentors, and potential collaborators. Reach out if you're interested in emerging technologies, blockchain in fintech, or tech entrepreneurship.
+📫 Connect with me on LinkedIn
+Featured Projects
+Check out my pinned repositories below to see what I've been working on!
