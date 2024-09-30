@@ -6,7 +6,7 @@ I am an aspiring entrepreneur and a computer engineering major at the University
 
 ## Vision & Current Focus
 
-My goal is to create a tech startup that revolutionizes the fintech industry. I'm exploring blockchain's potential in fintech, especially for developing countries. This interest stems from my work with the Youth Policy Forum in Bangladesh, advocating for pro-blockchain policies.
+My goal is to create a tech startup that revolutionizes the fintech industry. I'm exploring blockchain's potential in fintech, especially for developing countries. This interest stems from my work in the Youth Policy Forum in Bangladesh where I collaborated with lawmakers, advocating for pro-blockchain policies.
 
 I'm developing a concept for a blockchain-based banking platform aimed at:
 + Providing microfinance
