@@ -5,7 +5,7 @@
 Aspiring entrepreneur with a keen interest in technology and innovation. I'm eager to connect with fellow tech enthusiasts, mentors, and potential collaborators.
 
 ## Let's Connect!
-I'm eager to connect with tech enthusiasts, mentors, and potential collaborators. Reach out if you're interested in emerging technologies, blockchain in fintech, or tech entrepreneurship.
+I'm eager to connect with tech enthusiasts, mentors, and potential collaborators.
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/talha-hossain-khan-6327b72a5/)
 
