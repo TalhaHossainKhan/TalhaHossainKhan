@@ -2,7 +2,7 @@
 
 ## About Me
 
-Aspiring entrepreneur with a keen interest in technology and innovation. I'm eager to connect with fellow tech enthusiasts, mentors, and potential collaborators.
+Aspiring entrepreneur with a keen interest in embedded systems, chip design and electronics. I'm eager to connect with fellow tech enthusiasts, mentors, and potential collaborators.
 
 ## Let's Connect!
 I'm eager to connect with tech enthusiasts, mentors, and potential collaborators.
