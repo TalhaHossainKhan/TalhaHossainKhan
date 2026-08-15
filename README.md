@@ -1,11 +1,10 @@
-# Hi there! 👋 I'm Talha
+# Hi there! I'm Talha
 
 ## About Me
 
-Aspiring entrepreneur with a keen interest in embedded systems, chip design and electronics. I'm eager to connect with fellow tech enthusiasts, mentors, and potential collaborators.
+I am a Junior Computer Engineering major with a keen interest in embedded systems and electronics. I'm eager to connect with fellow tech enthusiasts, mentors, and potential collaborators.
 
 ## Let's Connect!
-I'm eager to connect with tech enthusiasts, mentors, and potential collaborators.
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/talha-hossain-khan-6327b72a5/)
 
