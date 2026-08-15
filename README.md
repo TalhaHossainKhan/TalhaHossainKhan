@@ -6,7 +6,7 @@ I am a Junior Computer Engineering major with a keen interest in embedded system
 
 ## Let's Connect!
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/talha-hossain-khan-6327b72a5/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/talha-hossain-khan-6327b72a5/)
 
 ## Featured Projects
 
